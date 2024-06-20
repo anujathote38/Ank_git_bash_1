@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T17:16:55 IST" name="Default suite" finished-at="2024-05-20T17:17:17 IST" duration-ms="22476">
+    <groups>
+      <group name="Error Handling">
+        <method signature="Error_Handling.loginErrorValidation()[pri:0, instance:aa_11.Error_Handling@52af26ee]" name="loginErrorValidation" class="aa_11.Error_Handling"/>
+      </group> <!-- Error Handling -->
+    </groups>
+    <test started-at="2024-05-20T17:16:55 IST" name="Default test" finished-at="2024-05-20T17:17:17 IST" duration-ms="22476">
+      <class name="aa_11.Error_Handling">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:aa_11.Error_Handling@52af26ee]" started-at="2024-05-20T17:16:55 IST" name="launchApplication" finished-at="2024-05-20T17:17:05 IST" duration-ms="10457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="ProductError()[pri:0, instance:aa_11.Error_Handling@52af26ee]" started-at="2024-05-20T17:17:05 IST" name="ProductError" finished-at="2024-05-20T17:17:05 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductError -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:aa_11.Error_Handling@52af26ee]" started-at="2024-05-20T17:17:05 IST" name="launchApplication" finished-at="2024-05-20T17:17:16 IST" duration-ms="11031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginErrorValidation()[pri:0, instance:aa_11.Error_Handling@52af26ee]" started-at="2024-05-20T17:17:16 IST" name="loginErrorValidation" finished-at="2024-05-20T17:17:17 IST" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorValidation -->
+      </class> <!-- aa_11.Error_Handling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
